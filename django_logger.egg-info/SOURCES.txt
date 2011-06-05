@@ -1,0 +1,8 @@
+__init__.py
+setup.py
+django_logger/__init__.py
+django_logger/tests.py
+django_logger.egg-info/PKG-INFO
+django_logger.egg-info/SOURCES.txt
+django_logger.egg-info/dependency_links.txt
+django_logger.egg-info/top_level.txt
